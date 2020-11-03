@@ -1,0 +1,1 @@
+[![Board Status](https://sysbrasil.visualstudio.com/c6711396-3155-43b9-b957-278ce37081f5/702fb6fa-22be-412f-bedb-efd2a22b3cfd/_apis/work/boardbadge/caf2fac5-afa4-4ccb-ab6e-8c551a017a33)](https://sysbrasil.visualstudio.com/c6711396-3155-43b9-b957-278ce37081f5/_boards/board/t/702fb6fa-22be-412f-bedb-efd2a22b3cfd/Microsoft.RequirementCategory)
